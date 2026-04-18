@@ -1,0 +1,65 @@
+,feature,mean_importance,category
+2,phyloP20way_mammalian,0.67617655,Conservation
+46,DP_AG,0.6514835,Splicing
+36,acidic,0.6264957,Properties
+39,pka_cooh,0.58033836,Properties
+26,equipotential_point,0.5302216,Properties
+56,K562,0.526588,Biochemical
+57,Nhek,0.5221415,Biochemical
+30,cyclic,0.5219527,Properties
+0,phastConsElements100way,0.5206708,Conservation
+22,rvis1,0.5196175,Functional Prediction
+53,Hmec,0.5140932,Biochemical
+63,MutPred_score,0.512879,Other tool
+61,MetaSVM_score,0.5113946,Other tool
+59,ClinPred_score,0.5102095,Other tool
+60,REVEL_score,0.50494283,Other tool
+62,MetaLR_score,0.49969918,Other tool
+6,phyloP30way_mammalian,0.4966306,Conservation
+48,DP_DG,0.49081844,Splicing
+20,gdi,0.49074125,Functional Prediction
+54,Hsmm,0.48888472,Biochemical
+5,SiPhy_29way_logOdds,0.4837318,Conservation
+41,blosum100,0.48151717,Properties
+58,Nhlf,0.4797409,Biochemical
+1,phyloP100way_vertebrate,0.4793353,Conservation
+47,DP_AL,0.47845957,Splicing
+23,rvis2,0.4783213,Functional Prediction
+32,aromatic,0.4735432,Properties
+28,hydrophobic,0.46995884,Properties
+31,essential,0.45994034,Properties
+21,gdi_phred,0.4578592,Functional Prediction
+4,phastCons20way_mammalian,0.45601857,Conservation
+38,sulfur,0.45538348,Properties
+55,Huvec,0.4506523,Biochemical
+29,amphipathic ,0.44788194,Properties
+3,phastCons100way_vertebrate,0.44520524,Conservation
+49,DP_DL,0.43702373,Splicing
+37,basic,0.43618524,Properties
+34,nonpolar,0.43063945,Properties
+35,polar_uncharged,0.42081723,Properties
+33,aliphatic,0.4013781,Properties
+27,hydrophilic,0.3955795,Properties
+25,molecular_weight,0.38901797,Properties
+7,phastCons30way_mammalian,0.38864353,Conservation
+16,AF_eas,0.38082606,Allele Frequency
+40,pka_nh3,0.36809608,Properties
+45,DS_DL,0.36018616,Splicing
+43,DS_AL,0.33882785,Splicing
+24,lof_score,0.3301806,Functional Prediction
+52,Hepg2,0.30716783,Biochemical
+12,AF_afr,0.29427215,Allele Frequency
+44,DS_DG,0.29249522,Splicing
+17,AF_fin,0.29240665,Allele Frequency
+18,AF_nfe,0.2877488,Allele Frequency
+9,AF_raw,0.2869331,Allele Frequency
+11,AF_female,0.28676206,Allele Frequency
+15,AF_asj,0.28565863,Allele Frequency
+14,AF_amr,0.28478384,Allele Frequency
+8,AF,0.2832015,Allele Frequency
+13,AF_ami,0.28258228,Allele Frequency
+19,AF_oth,0.28205308,Allele Frequency
+10,AF_male,0.2810602,Allele Frequency
+42,DS_AG,0.2766643,Splicing
+51,H1hesc,0.24671048,Biochemical
+50,Gm12878,0.22262615,Biochemical
